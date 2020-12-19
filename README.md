@@ -12,4 +12,4 @@
 >
 > + [Status-bar](https://asciinema.org/a/KGxfOHVLzU7XjOqPebGBU83eW)
 
-> + [Static Website]
+> + [Static Website](https://asciinema.org/a/S4J85iWDszHgQXfQlcM6dy9YB)
