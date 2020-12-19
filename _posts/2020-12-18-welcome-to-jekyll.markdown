@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Anastasia-Rizou P2019156
 title:  "Welcome to Jekyll!"
 date:   2020-12-18 22:10:49 +0200
 categories: jekyll update
