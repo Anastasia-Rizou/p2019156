@@ -4,3 +4,7 @@
 
 layout: home
 ---
+<h1>{{ "Warm-Up!" | downcase }}</h1>
+<h1>{{ "Download-mp3" | downcase }}</h1>
+<h1>{{ "Status-Bar" | downcase }}</h1>
+<h1>{{ "Static-Website" | downcase }}</h1>
